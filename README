@@ -1,0 +1,8 @@
+README
+======
+
+INFO:
+This is a set of trivial scripts to maintain Postfix-Dovecot virtual users
+database in flatfiles. It was working fine for me during last few years so
+I think it might be useful to general population. Unfortunately, it's
+Croatian-only, but strings are easy to replace.
